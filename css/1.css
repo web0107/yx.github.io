@@ -1,0 +1,244 @@
+html{
+	font-size: 625%;
+}
+html,body,h1,h2,h3,span{
+	margin: 0;
+	padding:0; 
+    position: relative;
+}
+.box{
+    width: 10.41rem;
+    height: 2rem;
+    background-image: linear-gradient(90deg,#0af,#0085ff);
+    padding:0.1rem 0.42rem 0 ;
+    font-size: 0.51rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 3rem;
+    color: white;
+    position: relative;
+    border-bottom: none;
+}
+.fa-sort-desc{
+    position: absolute;
+    right: 7.4rem;
+    top: 1.45rem;
+}
+.box1-index{
+    width: 10.41rem;
+    height: 1.03rem;
+}
+.input{
+	 width: 10.41rem;
+    height: 1.2rem;
+    background-image: linear-gradient(90deg,#0af,#0085ff);
+    color: #999999;
+    font-size: 0.42rem;
+    padding: 0.225rem 0.42rem;
+    line-height: 1.1rem;
+    text-align: center;
+    font-weight: 100;
+    font-family: simsum;
+}
+/*.numm{
+    position: fixed;
+    z-index: 2;
+}*/
+.input a{
+	display: inline-block;
+   width: 10.41rem;
+   height: 1.085rem;
+   background: #fff;
+   border-radius: 3px;
+   text-decoration-line: none;
+   color: #ccc;
+}
+.swiper-container{
+    width: 11.25rem;
+    margin-top: 2rem;
+}
+.swiper-wrapper{
+    width: 11.25rem
+}
+.swiper-slide{
+    width: 11.25rem;
+    height: 5.31rem;
+ /*   border-bottom: 1px solid black;*/
+}
+.swiper-slide a{
+    display: inline-block;
+    width:20%;
+    height: 1.93rem;
+    float: left;
+    overflow: hidden;
+    margin-top:0.33rem; 
+    font-size: 36px;
+    text-decoration: none;
+    text-align: center;
+}
+.swiper-slide span{
+     font-size: 36px;
+    color: #666666;
+}
+.swiper-slide img{
+    width: 1.35rem;
+    height: 1.35rem;
+}
+.main-chose{
+    width: 10.14rem;
+    height: 6.72rem;
+    background: #fff;
+}
+.index-3xB2N_0{
+  width: 9rem;
+  height: 2.64rem;
+  background: #f5f5f5;
+  padding: 0.225rem 0.75rem;
+  margin-left: 0.33rem;
+  margin-top: 0.2rem;
+
+}
+h3{
+    color: #333;
+    font-weight: 700;
+    font-size: 0.45rem;
+    margin-bottom: 0.24rem;
+}
+.index-2W67h_0{
+    font-size: 0.34rem;
+    color: #777;
+    margin-bottom: 0.24rem;
+}
+.index-1DFa7_0{
+    font-size: 0.32rem;
+    color: #af8260;
+    font-weight:700; 
+}
+.index-3eoZ-_0{
+    width: 10.5rem;
+    height: 1.32rem;
+    background-image: linear-gradient(90deg,#ffefc4,#f3dda0);
+     margin-left: 0.3rem;
+     margin-top: 0.15rem;
+}
+.vip{
+    color: #644f1b;
+    font-size: 0.29rem;
+    line-height: 1.32rem;
+    padding-left: 0.2rem;
+}
+.vip img{
+   height: 0.45rem;
+   max-width: 100%;
+}
+.AA{
+    font-size: 0.29rem;
+    margin-left: 3.6rem;
+    text-decoration: none;
+    color: #644f1b;
+}
+.index-4F0aw_0{
+    color: #bd8f22;
+    font-size: 0.54rem;
+}
+.index-M9mXY_0{
+    font-size: 0.37rem;
+    font-weight: 700;
+}
+.index-3xB2N_0 img{
+    float: right;
+    margin-top: -1.24rem;
+}
+.mint-swipe-item{
+ width: 10.14rem;
+  height: 2.64rem;
+  padding: 0.225rem 0.55rem;
+}
+.mint-swipe-item img{
+    width: 10.45rem;
+  height: 2.64rem;
+  margin-left: -0.2rem;
+}
+.shoplist{
+    width: 11.25rem;
+    color: #000;
+    height: 0.96rem;
+    text-align: center;
+    font-size: 0.5rem;
+    margin-top: 1rem;
+}
+.home-filter{
+    width: 11.25rem;
+    height: 0.96rem;
+    font-size: 0.5rem;
+}
+.home-filter a{
+   text-decoration:none; 
+   color: #666;
+}
+.home-filter span{
+    margin-left: 0.7rem;
+}
+.NoData{
+    width: 11.25rem;
+    height: 10.13rem;
+/*    background: #ccc;*/
+}
+.meal{
+    width: 11.25rem;
+    height: 5.67rem;
+    margin-top: 0.2rem;
+}
+.logo-contai img{
+  width: 2.15rem;
+  height: 2.15rem;
+ margin-left: 0.3rem;
+
+}
+.retg{
+ /*    width: 9.6rem;*/
+    height: 2.15rem;
+    margin-left: 2.44rem;
+    margin-top: -2.42rem;
+    position: relative;
+}
+.PP{
+    width: 0.89rem;
+    height: 0.56rem;
+    background-image: linear-gradient(-139deg,#fff100,#ffe339);
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.3rem;
+    color: #333;
+    position: absolute;
+    margin-left: 0.2rem;
+
+}
+.retg span{
+    font-size: 0.45rem;
+    margin-left: 1.3rem;
+    position: absolute;
+    font-weight: 700;
+    color: #333;
+}
+.footer{
+    background: #fff;
+    border-top: 3px solid #ccc;
+    position: fixed;
+    width: 11.25rem;
+    height: 2rem;
+    left: 0;
+    bottom: 0;
+    margin-top: 0rem;
+}
+.retg b{
+     font-size: 0.25rem;
+     margin-top: 0.4rem;
+     color: #eee;
+}
+.footer span{
+    margin-left: 1.3rem;
+    font-size: 0.5rem;
+}
